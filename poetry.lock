@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "Simple, modern file watching and code reload in python."
+name = "watchgod"
+optional = false
+python-versions = ">=3.5"
+version = "0.5"
+
+[metadata]
+content-hash = "92d9e3a7494da0b4c4fb87f826559c0bfadd20e388a25e69850d5bda969b3e64"
+python-versions = "^3.6"
+
+[metadata.files]
+watchgod = [
+    {file = "watchgod-0.5-py35.py36.py37-none-any.whl", hash = "sha256:30ffb90c692e0797d23a39d695928c57d8c01a4a9708434e9dca16d7bd4e24c7"},
+    {file = "watchgod-0.5.tar.gz", hash = "sha256:78d44cbacf4fbbf7573d10fcf0f156f1b0d71598d32477c34f8cf66001bafc1f"},
+]
